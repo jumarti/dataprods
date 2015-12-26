@@ -2,7 +2,7 @@
 
 ## Predict your child's height
 
-You can find the Shiny App at: (https://xcidev.shinyapps.io/dataprods) [https://xcidev.shinyapps.io/dataprods]
+You can find the Shiny App at: https://xcidev.shinyapps.io/dataprods
 
 ## Instructions
 Input your height.
